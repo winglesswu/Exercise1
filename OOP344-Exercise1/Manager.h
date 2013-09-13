@@ -1,11 +1,11 @@
 class Employee;
-
+//class Manager's data types and methods 
 class Manager
    {
    private:
       int totalHours;
    protected:
-   private:
+   public:
       Manager();
 
       void getWorkerHours(Employee* emp);

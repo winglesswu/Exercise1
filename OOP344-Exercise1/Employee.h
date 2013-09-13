@@ -1,5 +1,5 @@
 class Manager;
-//class employee's data types
+//class Employee's data types and methods
 class Employee
    {
    private:
