@@ -16,5 +16,5 @@ class Employee
       void report();
       int getHours();
       int getID();
-      char* getName();
+	  char* getName() {return name;};
    };
